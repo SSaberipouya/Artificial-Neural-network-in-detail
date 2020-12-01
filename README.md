@@ -1,2 +1,13 @@
 # Neural-network-in-detail
 This repository contain most important method that you need to apply in deep learning project.
+
+### 1. Everything you need to know about Neural Networks and Backpropagation.
+https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a
+
+### 2. Evaluate the Performance Of Deep Learning Models in Keras.
+https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
+
+### 3. How you can tune the hyperparameters of your deep learning networks in Python using Keras and scikit-learn using 'Grid search'
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/
+https://medium.com/datadriveninvestor/hyperparameter-tuning-with-deep-learning-grid-search-8630aa45b2da
