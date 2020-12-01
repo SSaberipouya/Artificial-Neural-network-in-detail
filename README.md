@@ -11,3 +11,6 @@ https://machinelearningmastery.com/evaluate-performance-deep-learning-models-ker
 https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
 https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/
 https://medium.com/datadriveninvestor/hyperparameter-tuning-with-deep-learning-grid-search-8630aa45b2da
+
+### 4. Random Search for Hyper-Parameter Optimization of your deep learning networks in Python 
+https://scikit-learn.org/stable/modules/grid_search.html
