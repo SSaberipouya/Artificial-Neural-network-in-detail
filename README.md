@@ -19,5 +19,8 @@ https://machinelearningmastery.com/hyperparameter-optimization-with-random-searc
 ### 5. Building Autoencoders in Keras
 https://blog.keras.io/building-autoencoders-in-keras.html
 
-## 6. Improving-our-neural-network-by-optimizing-Gradient-Descent
+### 6. Improving-our-neural-network-by-optimizing-Gradient-Descent
 http://iamtrask.github.io/2015/07/27/python-network-part2/
+
+### 7.  How-the-backpropagation-algorithm-works
+http://neuralnetworksanddeeplearning.com/chap2.html
