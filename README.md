@@ -15,3 +15,6 @@ https://medium.com/datadriveninvestor/hyperparameter-tuning-with-deep-learning-g
 ### 4. Random Search for Hyper-Parameter Optimization of your deep learning networks in Python 
 https://scikit-learn.org/stable/modules/grid_search.html
 https://machinelearningmastery.com/hyperparameter-optimization-with-random-search-and-grid-search/
+
+### 5. Building Autoencoders in Keras
+https://blog.keras.io/building-autoencoders-in-keras.html
