@@ -34,6 +34,9 @@ http://iamtrask.github.io/2015/07/27/python-network-part2/
 ### 7.  How-the-backpropagation-algorithm-works
 http://neuralnetworksanddeeplearning.com/chap2.html
 
+### 8. How to Save and Load the Keras Deep Learning Model
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+
 ### 8. How to Get Better Deep Learning Results (7-Day Mini-Course)
 https://machinelearningmastery.com/better-deep-learning-neural-networks-crash-course/ & https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
 
