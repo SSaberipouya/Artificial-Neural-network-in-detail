@@ -36,12 +36,6 @@ http://neuralnetworksanddeeplearning.com/chap2.html
 ### 8. Understand the Impact of Learning Rate on Neural Network Performance
 https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/
 
-### 8. How to Save and Load the Keras Deep Learning Model
-https://machinelearningmastery.com/save-load-keras-deep-learning-models/
-
-### 8. How to Get Better Deep Learning Results (7-Day Mini-Course)
-https://machinelearningmastery.com/better-deep-learning-neural-networks-crash-course/ & https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
-
 ### 9. Keras API reference
 https://keras.io/api/
 
@@ -50,3 +44,10 @@ https://machinelearningmastery.com/activation-regularization-for-reducing-genera
 
 ### 11. How to Save and Load Your Keras Deep Learning Model
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+
+### 12. How to Save and Load the Keras Deep Learning Model
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+
+### 13. How to Get Better Deep Learning Results (7-Day Mini-Course)
+https://machinelearningmastery.com/better-deep-learning-neural-networks-crash-course/ & https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
+
