@@ -45,3 +45,6 @@ https://keras.io/api/
 
 ### 10. A Gentle Introduction to Activation Regularization in Deep Learning 
 https://machinelearningmastery.com/activation-regularization-for-reducing-generalization-error-in-deep-learning-neural-networks/
+
+### 11. How to Save and Load Your Keras Deep Learning Model
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
