@@ -33,6 +33,8 @@ http://iamtrask.github.io/2015/07/27/python-network-part2/
 
 ### 7.  How-the-backpropagation-algorithm-works
 http://neuralnetworksanddeeplearning.com/chap2.html
+### 8. Understand the Impact of Learning Rate on Neural Network Performance
+https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/
 
 ### 8. How to Save and Load the Keras Deep Learning Model
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/
