@@ -1,6 +1,6 @@
 ![Artificial_Neural_Network](ANN.png)
 
-This repository contain most important method that you need to apply in deep learning project.
+This repository contains most important method that you need to apply in deep learning project.
 
 ### 1. Everything you need to know about Neural Networks and Backpropagation.
 https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a 
