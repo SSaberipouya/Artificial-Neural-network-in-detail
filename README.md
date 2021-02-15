@@ -1,4 +1,5 @@
-# Neural-network-in-detail
+![Artificial_Neural_Network](ANN.PNG)
+
 This repository contain most important method that you need to apply in deep learning project.
 
 ### 1. Everything you need to know about Neural Networks and Backpropagation.
