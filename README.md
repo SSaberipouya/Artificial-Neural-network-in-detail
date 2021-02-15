@@ -1,4 +1,4 @@
-![Artificial_Neural_Network](ANN.PNG)
+![Artificial_Neural_Network](ANN.png)
 
 This repository contain most important method that you need to apply in deep learning project.
 
