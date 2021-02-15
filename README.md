@@ -51,3 +51,5 @@ https://machinelearningmastery.com/save-load-keras-deep-learning-models/
 ### 13. How to Get Better Deep Learning Results (7-Day Mini-Course)
 https://machinelearningmastery.com/better-deep-learning-neural-networks-crash-course/ & https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
 
+### 14. How to Choose an Activation Function for Deep Learning
+https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
