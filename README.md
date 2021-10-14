@@ -52,3 +52,6 @@ https://machinelearningmastery.com/better-deep-learning-neural-networks-crash-co
 ### 13. How to Choose an Activation Function for Deep Learning
 https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
 ![Activation_Function](How-to-Choose-an-Hidden-Layer-Activation-Function.png)
+
+### 14. Neural Network Models for Combined Classification and Regression 
+https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/
