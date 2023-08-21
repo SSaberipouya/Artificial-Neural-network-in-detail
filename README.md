@@ -1,6 +1,9 @@
 ![Artificial_Neural_Network](ANN.png)
 
-This repository contains most important method that you need to apply in a deep learning project.
+# Essential Methods for Deep Learning Projects
+
+In this repository, you will find a curated collection of the most crucial methods and techniques necessary for successfully executing a deep learning project.
+These methods encompass a wide spectrum of topics and are essential for building, training, and optimizing deep learning models. Whether you're a novice or an experienced practitioner, these methods will serve as a valuable resource to guide you through various stages of your deep learning journey. Explore, implement, and elevate your projects with these indispensable tools.
 
 ### 1. Everything you need to know about Neural Networks and Backpropagation.
 https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a 
