@@ -9,7 +9,6 @@ Welcome to our curated collection of essential methods and techniques for deep l
 Understanding neural networks and backpropagation is fundamental to deep learning. These resources provide in-depth insights:
    - [Neural Networks and Backpropagation](https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a)
    - [Deep Learning with TensorFlow and Keras](https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/)
-   - [Keras Functional API](https://machinelearningmastery.com/keras-functional-api-deep-learning/)
 
 #### 2. **Performance Evaluation in Keras**
 
@@ -28,12 +27,6 @@ Optimize your deep learning networks by fine-tuning hyperparameters:
 Explore random search for efficient hyperparameter optimization:
    - [scikit-learn Random Search](https://scikit-learn.org/stable/modules/grid_search.html)
    - [Hyperparameter Optimization with Random Search](https://machinelearningmastery.com/hyperparameter-optimization-with-random-search-and-grid-search/)
-
-#### 5. **Building Autoencoders in Keras**
-
-Discover how to create autoencoders for various applications:
-   - [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
-   - [Autoencoders for Regression](https://machinelearningmastery.com/autoencoder-for-regression/)
 
 #### 6. **Optimizing Gradient Descent**
 
@@ -54,6 +47,7 @@ Learn about the critical role of learning rate in neural networks:
 
 Explore the comprehensive Keras API documentation:
    - [Keras API Reference](https://keras.io/api/)
+   - [Keras Functional API](https://machinelearningmastery.com/keras-functional-api-deep-learning/)
 
 #### 10. **Activation Regularization in Deep Learning**
 
@@ -82,3 +76,9 @@ Explore neural network models capable of handling both classification and regres
    - [Combined Classification and Regression Models](https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/)
 
 Dive into these resources, implement the methods, and elevate your deep learning projects to new heights. Your journey to mastering deep learning starts here!
+
+#### 5. **Building Autoencoders in Keras**
+
+Discover how to create autoencoders for various applications:
+   - [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+   - [Autoencoders for Regression](https://machinelearningmastery.com/autoencoder-for-regression/)
